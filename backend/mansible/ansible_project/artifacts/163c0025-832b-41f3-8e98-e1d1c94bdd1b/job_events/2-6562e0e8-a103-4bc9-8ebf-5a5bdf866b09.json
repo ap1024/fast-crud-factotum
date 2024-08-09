@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "6562e0e8-a103-4bc9-8ebf-5a5bdf866b09", "counter": 2, "stdout": "\u001b[0;31mERROR! Specified hosts and/or --limit does not match any hosts\u001b[0m", "start_line": 1, "end_line": 2, "runner_ident": "163c0025-832b-41f3-8e98-e1d1c94bdd1b", "created": "2024-07-20T14:15:33.130130+00:00"}

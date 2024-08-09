@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "16c1ec7b-6f0d-45bd-9605-635a00ce1850", "counter": 6, "stdout": "\u001b[1;35m'touch'.  If you need to use command because file is insufficient you can add\u001b[0m", "start_line": 5, "end_line": 6, "runner_ident": "14fc52b1-861c-46a2-82b6-c5edb7d72d96", "created": "2024-07-22T21:10:22.613448+00:00"}

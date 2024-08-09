@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "5dc7b8fe-1ab7-471a-8d53-5a8716b876ef", "counter": 1, "stdout": "\u001b[0;31mERROR! the playbook: /root/wuli/djangoProject/mansible/ansible_projectproject/test.yml could not be found\u001b[0m", "start_line": 0, "end_line": 1, "runner_ident": "8978835a-b994-44da-a5bc-1b20ab84cfd1", "created": "2024-07-22T12:08:05.135049+00:00"}

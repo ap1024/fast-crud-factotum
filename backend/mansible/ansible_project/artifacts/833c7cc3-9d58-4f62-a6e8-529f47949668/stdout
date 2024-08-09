@@ -1,3 +1,0 @@
-[1;35mansible.cfg to get rid of this message.[0m
-[0;31m192.210.161.202 | FAILED | rc=1 >>[0m
-[0;31mtouch: cannot touch '/root/1.txt': Permission deniednon-zero return code[0m

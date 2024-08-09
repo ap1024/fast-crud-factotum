@@ -1,9 +1,0 @@
-
-PLAY [Run ls command] **********************************************************
-
-TASK [Execute ls command] ******************************************************
-[WARNING]: Consider using the file module with state=touch rather than running
-'touch'.  If you need to use command because file is insufficient you can add
-'warn: false' to this command task or set 'command_warnings=False' in
-ansible.cfg to get rid of this message.
-changed: [host1]
