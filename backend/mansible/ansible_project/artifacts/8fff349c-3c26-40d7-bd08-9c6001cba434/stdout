@@ -1,0 +1,17 @@
+[0;33m8.130.45.15 | CHANGED => {[0m
+[0;33m    "ansible_facts": {[0m
+[0;33m        "discovered_interpreter_python": "/usr/bin/python"[0m
+[0;33m    },[0m
+[0;33m    "changed": true,[0m
+[0;33m    "checksum": "60a0e38ff5183689bb45d3f7a43e2741cf67471d",[0m
+[0;33m    "dest": "/home/lihongxing/0802ceshi.txt",[0m
+[0;33m    "gid": 1000,[0m
+[0;33m    "group": "lihongxing",[0m
+[0;33m    "md5sum": "1e8d64537dc8e37b6445cff9b969f52b",[0m
+[0;33m    "mode": "0664",[0m
+[0;33m    "owner": "lihongxing",[0m
+[0;33m    "size": 19,[0m
+[0;33m    "src": "/home/lihongxing/.ansible/tmp/ansible-tmp-1721648774.8042278-83081-195300790876476/source",[0m
+[0;33m    "state": "file",[0m
+[0;33m    "uid": 1000[0m
+[0;33m}[0m

@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "5437c4fc-7ea2-4b39-96f8-3430af3aeeb7", "counter": 8, "stdout": "\u001b[1;35m'warn: false' to this command task or set 'command_warnings=False' in\u001b[0m", "start_line": 6, "end_line": 7, "runner_ident": "0e6822b1-3171-4454-9f15-5eb8d166d1df", "created": "2024-07-20T12:54:27.297099+00:00"}

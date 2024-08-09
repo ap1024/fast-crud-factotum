@@ -1,0 +1,7 @@
+[0;31m8.130.45.15 | FAILED! => {[0m
+[0;31m    "ansible_facts": {[0m
+[0;31m        "discovered_interpreter_python": "/usr/bin/python"[0m
+[0;31m    },[0m
+[0;31m    "changed": false,[0m
+[0;31m    "msg": "The Python 2 bindings for rpm are needed for this module. If you require Python 3 support use the `dnf` Ansible module instead.. The Python 2 yum module is needed for this module. If you require Python 3 support use the `dnf` Ansible module instead."[0m
+[0;31m}[0m

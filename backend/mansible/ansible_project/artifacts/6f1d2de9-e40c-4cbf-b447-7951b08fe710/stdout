@@ -1,0 +1,14 @@
+
+PLAY [Run ls command] **********************************************************
+
+TASK [Execute ls command] ******************************************************
+[WARNING]: Consider using the file module with state=touch rather than running
+'touch'.  If you need to use command because file is insufficient you can add
+'warn: false' to this command task or set 'command_warnings=False' in
+ansible.cfg to get rid of this message.
+changed: [host1]
+fatal: [host2]: UNREACHABLE! => {"changed": false, "msg": "Invalid/incorrect password: Warning: Permanently added '192.210.161.202' (ED25519) to the list of known hosts.\r\nPermission denied, please try again.", "unreachable": true}
+
+PLAY RECAP *********************************************************************
+host1                      : ok=1    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+host2                      : ok=0    changed=0    unreachable=1    failed=0    skipped=0    rescued=0    ignored=0   

@@ -1,0 +1,10 @@
+[group1]
+1.1.1.1 ansible_user=root ansible_ssh_pass=000000
+[group2]
+2.2.2.2 ansible_user=root ansible_ssh_pass=000000
+
+
+[all:vars]
+ansible_sudo_pass=000000
+ansible_ssh_pass=000000
+ansible_become_pass=000000

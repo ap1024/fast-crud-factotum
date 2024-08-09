@@ -1,0 +1,3 @@
+[0;31m192.210.161.202 | FAILED | rc=-1 >>[0m
+[0;31mTimeout (12s) waiting for privilege escalation prompt: /etc/profile.d/lang.sh: line 19: warning: setlocale: LC_CTYPE: cannot change locale (C.UTF-8)[0m
+[0;31m[0m

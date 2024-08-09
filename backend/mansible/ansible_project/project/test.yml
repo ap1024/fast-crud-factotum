@@ -1,0 +1,11 @@
+- name: Run ls command
+  hosts: all
+  gather_facts: false
+
+  tasks:
+    - name: Execute ls command
+      shell: touch /home/lihongxing/0806.txt
+#      shell: sh /root/1.sh
+##    - name: Execute ls command
+##     shell: ls -al  /etc/
+

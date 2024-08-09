@@ -1,0 +1,5 @@
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: If you are using a module and expect the file to exist on the remote, see the remote_src option[0m
+[0;31m192.210.161.202 | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "msg": "Could not find or access './ansible_project/file/0802ceshi.txt'\nSearched in:\n\t/root/django-vue3-admin-master/backend/mansible/ansible_project/files/./ansible_project/file/0802ceshi.txt\n\t/root/django-vue3-admin-master/backend/mansible/ansible_project/./ansible_project/file/0802ceshi.txt\n\t./files/./ansible_project/file/0802ceshi.txt\n\t././ansible_project/file/0802ceshi.txt on the Ansible Controller.\nIf you are using a module and expect the file to exist on the remote, see the remote_src option"[0m
+[0;31m}[0m
